@@ -1,0 +1,8 @@
+[SQL config]
+path = localhost
+username = root
+password = root
+database = test
+
+[Service URL]
+url = http://localhost:8080/ols-boot/api/ontologies/bspo/terms
